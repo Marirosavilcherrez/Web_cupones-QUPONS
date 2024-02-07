@@ -185,23 +185,23 @@ You can use any administrator from the first group since they execute the stored
 
 ## **Step 2: Create categories**
 In order for stores to create their coupons, the administrator needs to create categories. for example: Fashion, Gastronomy, Entertainment, Appliances, etc.
-![crear-categorias](https://github.com/MiguelBG12/Proyecto-Qupons/assets/135359331/c620230e-8434-458c-8efc-4d127c263e80)
+
 
 ## **Step 3: Register a store**
 From the Frontend "http://localhost:5173/registrar-tienda" fill out the form with your store data.
-![registro-tienda](https://github.com/MiguelBG12/Proyecto-Qupons/assets/135359331/82e63b97-bff7-45cf-8dfd-d715fe66e043)
+
 
 ## **Step 4: Create coupon**
 From the create coupon section "http://localhost:5173/tienda-crear-coupons" personalize the coupon by filling in the required information.
-![crear-cupon](https://github.com/MiguelBG12/Proyecto-Qupons/assets/135359331/9d047b6d-43f5-4557-82ac-5c7ddf635308)
+
 
 ## **Step 5: Register user**
 From the Frontend "http://localhost:5173/registrar-usuario" fill out the form with the user's data.
-![registro-usuario](https://github.com/MiguelBG12/Proyecto-Qupons/assets/135359331/951c8ee9-b9d7-4096-a2e4-e9958f6c2fb4)
+
 
 ## **Step 6: Get coupon**
 The user has a section available "http://localhost:5173/usuario-cupones-obtenidos" where they can see the coupons obtained and be able to download them in a pdf file.
-![cupone otenidos](https://github.com/MiguelBG12/Proyecto-Qupons/assets/135359331/75c2dbda-9878-4a8a-a1d4-1bda05a9d80a)
+
 
 # Authors👨‍🎓👩‍🎓:
 #### Marirosa Vilcherrez: https://www.linkedin.com/in/marirosavilcherrez/

@@ -1,0 +1,39 @@
+@import url("../../../index.css");
+
+header {
+    background-color: var(--color-verde);
+}
+
+.contenedor-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+
+.menu a {
+    margin: 0 0 0 0.5rem;
+    text-decoration: none;
+    color: var(--color-blanco);
+    padding: 0.8rem  0.8rem ;
+    border-radius: 0.5rem;
+}
+
+.btn-verde {
+    border: solid 1px var(--color-blanco);
+    
+}
+
+.btn-blanco {
+    background-color: var(--color-blanco);
+    color: var(--color-verde) !important;
+}
+
+.logo-header h1 {
+    color: var(--color-blanco);
+}
